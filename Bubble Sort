@@ -1,0 +1,6 @@
+Bubble Sort is the simplest sorting algorithm which works by swapping the adjacent elements.
+
+The average and worst case complexity of Bubble Sort is O(n2) where n is number of items.
+
+Bubble Sort is mostly used where complexity does not matter & it requires simple code.
+
